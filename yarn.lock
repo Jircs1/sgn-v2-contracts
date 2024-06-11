@@ -2504,10 +2504,10 @@ available-typed-arrays@^1.0.5:
   resolved "https://registry.npmmirror.com/available-typed-arrays/-/available-typed-arrays-1.0.5.tgz#92f95616501069d07d10edb2fc37d3e1c65123b7"
   integrity sha512-DMD0KiN46eipeziST1LPP/STfDU0sufISXmjSgvVsoU2tqxctQeASejWcfNtxYKqETM1UxQ8sp2OrSBWpHY6sw==
 
-aws-sdk@2.1419.0:
-  version "2.1419.0"
-  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.1419.0.tgz#1f78c1db44e5c7992e3cd9a0a097a82a5505e928"
-  integrity sha512-JcD8gb8I5fH/TGdObG8UYyyXfnqVYk50wx9TGao6G/xBYT3YoYeQXj020W568YQpO+dBKRuR4U2LRYdKBNmQ/g==
+aws-sdk@2.1624.0:
+  version "2.1624.0"
+  resolved "https://registry.yarnpkg.com/aws-sdk/-/aws-sdk-2.1624.0.tgz#09a55b1e4da21e9b09048ca72c006d7f598c7d05"
+  integrity sha512-SxBGDkdmsQTXLKPaY+hLqjlQyZBaGaFD34EhTd4aYuuqT952sxYeDt7w75py4o4O5z4hUUTccqTF9dtpxCPJfg==
   dependencies:
     buffer "4.9.2"
     events "1.1.1"
@@ -2518,7 +2518,7 @@ aws-sdk@2.1419.0:
     url "0.10.3"
     util "^0.12.4"
     uuid "8.0.0"
-    xml2js "0.5.0"
+    xml2js "0.6.2"
 
 aws-sign2@~0.7.0:
   version "0.7.0"
@@ -7427,10 +7427,10 @@ ws@^7.4.6:
   resolved "https://registry.yarnpkg.com/ws/-/ws-7.5.7.tgz#9e0ac77ee50af70d58326ecff7e85eb3fa375e67"
   integrity sha512-KMvVuFzpKBuiIXW3E4u3mySRO2/mCHSyZDJQM5NQ9Q9KHWHWh0NHgfbRMLLrceUK5qAL4ytALJbpRMjixFZh8A==
 
-xml2js@0.5.0:
-  version "0.5.0"
-  resolved "https://registry.npmmirror.com/xml2js/-/xml2js-0.5.0.tgz#d9440631fbb2ed800203fad106f2724f62c493b7"
-  integrity sha512-drPFnkQJik/O+uPKpqSgr22mpuFHqKdbS835iAQrUC73L2F5WkboIRd63ai/2Yg6I1jzifPFKH2NTK+cfglkIA==
+xml2js@0.6.2:
+  version "0.6.2"
+  resolved "https://registry.yarnpkg.com/xml2js/-/xml2js-0.6.2.tgz#dd0b630083aa09c161e25a4d0901e2b2a929b499"
+  integrity sha512-T4rieHaC1EXcES0Kxxj4JWgaUQHDk+qwHcYOCFHfiwKz7tOVPLq7Hjq9dM1WCMhylqMEfP7hMcOIChvotiZegA==
   dependencies:
     sax ">=0.6.0"
     xmlbuilder "~11.0.0"
